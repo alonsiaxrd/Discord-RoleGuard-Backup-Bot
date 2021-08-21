@@ -1,0 +1,34 @@
+{
+  "Bot": {
+    "Token": "",
+    "DestekçiToken": [],
+    "MongoURL": "",
+    "Durum": "Alonsia - Serendia Squad",
+    "Status": "online",
+    "DestekçiDurum": "Alonsia - Serendia Squad",
+    "DestekçiStatus": "online",
+    "Owners": [],
+    "Prefix": []
+  },
+
+  "Server": {
+    "GuildID": ""
+  },
+
+  "Channels":{
+    "VoiceChannelID": ""
+   },
+  
+  "Roles":{
+    "Booster": "",
+    "Jail": "",
+    "YetkiKapatılmayacakRoller": []
+   },
+  
+  "Webhook": {
+    "LogWebhook": {
+      "ID": "",
+      "Token": ""
+    }
+  }
+}
